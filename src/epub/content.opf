@@ -54,9 +54,9 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Representative Men is a collection of seven lectures by &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Ralph Waldo Emerson&lt;/a&gt; that were published as a book of essays in 1850. In the first essay Emerson discusses the role of great men and the importance they have on society. Emerson uses each of the next lecture to highlight the qualities and lives of six men he considers to be representative of this greatness.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6312</dc:source>
@@ -68,15 +68,12 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ralph-waldo-emerson_representative-men</meta>
 		<dc:creator id="author">Ralph Waldo Emerson</dc:creator>
 		<meta property="file-as" refines="#author">Emerson, Ralph Waldo</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n78085476</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Miranda van de Heijning</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">van de Heijning, Miranda</meta>
@@ -94,9 +91,9 @@
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Alberto Tobias</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tobias, Alberto</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alberto.tobias.es</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
