@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Representative Men</dc:title>
 		<meta property="file-as" refines="#title">Representative Men</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Seven Lectures</dc:title>
+		<meta property="file-as" refines="#subtitle">Seven Lectures</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Representative Men: Seven Lectures</dc:title>
+		<meta property="file-as" refines="#fulltitle">Representative Men</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Napoleon I, Emperor of the French, 1769-1821</dc:subject>
 		<dc:subject id="subject-2">Plato</dc:subject>
 		<dc:subject id="subject-3">Shakespeare, William, 1564-1616</dc:subject>
@@ -46,14 +53,14 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6312</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/representativeme0000ralp_h9j4</dc:source>
 		<meta property="se:production-notes">Only original notes from the first edition are kept. Commentary notes from later editions have been omitted.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
