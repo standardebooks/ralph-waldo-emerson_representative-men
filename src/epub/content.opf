@@ -56,7 +56,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Representative Men is a collection of seven lectures by &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Ralph Waldo Emerson&lt;/a&gt; that were published as a book of essays in 1850. In the first essay Emerson discusses the role of great men and the importance they have on society. Emerson uses each of the next lecture to highlight the qualities and lives of six men he considers to be representative of this greatness.&lt;/p&gt;
+			&lt;p&gt;Representative Men is a collection of seven lectures by &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Ralph Waldo Emerson&lt;/a&gt; that were published as a book of essays in 1850. In the first essay Emerson discusses the role of great men and the importance they have on society. He argues that great men with their actions and achievements inspire others to reach for their own greatness. Emerson then examines the lives and works of six men he considers examples of what is possible for the rest of humanity: Plato the philosopher, Swedenborg the mystic, Montaigne the skeptic, Shakespeare the poet, Napoleon the man of the world, and Goethe the writer.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6312</dc:source>
