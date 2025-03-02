@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-3.xhtml">
-		<ignore>
-			<code>y-004</code>
-			<reason>Curly quote marks match correctly.</reason>
-		</ignore>
-	</file>
+
 </se-lint-ignore>
