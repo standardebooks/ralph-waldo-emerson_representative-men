@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Representative Men: Seven Lectures</dc:title>
 		<meta property="file-as" refines="#fulltitle">Representative Men</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Napoleon I, Emperor of the French, 1769-1821</dc:subject>
 		<dc:subject id="subject-2">Plato</dc:subject>
 		<dc:subject id="subject-3">Shakespeare, William, 1564-1616</dc:subject>
