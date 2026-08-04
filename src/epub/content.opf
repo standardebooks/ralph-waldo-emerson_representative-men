@@ -56,7 +56,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.</dc:abstract>
+		<meta property="schema:abstract">A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Representative Men&lt;/i&gt; is a collection of seven lectures by &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Ralph Waldo Emerson&lt;/a&gt; that were published as a book of essays in 1850. In the first essay Emerson discusses the role of great men and the importance they have on society. He argues that great men with their actions and achievements inspire others to reach for their own greatness. Emerson then examines the lives and works of six men he considers examples of what is possible for the rest of humanity: &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato&lt;/a&gt; the philosopher, Swedenborg the mystic, &lt;a href="https://standardebooks.org/ebooks/michel-de-montaigne"&gt;Montaigne&lt;/a&gt; the skeptic, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; the poet, Napoleon the man of the world, and &lt;a href="https://standardebooks.org/ebooks/j-w-von-goethe"&gt;Goethe&lt;/a&gt; the writer.&lt;/p&gt;
 		</dc:description>
